@@ -1,5 +1,6 @@
 package com.intrusoft.indicator.app;
 
+import android.graphics.Color;
 import android.os.Bundle;
 import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
@@ -60,6 +61,9 @@ public class MainActivity extends AppCompatActivity implements ViewPager.OnPageC
         //setting Flare
         indicator.setUpWithViewPager(pager);
         indicator.addOnPageChangeListener(this /* OnPageChangeListener */);
+
+        indicator.setIndicatorColor(Color.BLUE);
+        indicator.setIndicatorGap(20);
     }
 
     @Override

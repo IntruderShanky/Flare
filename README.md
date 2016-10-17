@@ -18,7 +18,7 @@ allprojects {
 Step 2. Add the dependency
 ```groovy
 dependencies {
-      compile 'com.github.IntruderShanky:Flare:1.0.0'
+      compile 'com.github.IntruderShanky:Flare:1.0.1'
 }
  ```
 # Implementation
