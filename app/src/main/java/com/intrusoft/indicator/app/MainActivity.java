@@ -11,7 +11,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 
-import com.intrusoft.library.Flare;
+import com.intrusoft.indicator.Flare;
 
 public class MainActivity extends AppCompatActivity implements ViewPager.OnPageChangeListener {
 

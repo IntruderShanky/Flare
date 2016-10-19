@@ -1,4 +1,4 @@
-package com.intrusoft.library;
+package com.intrusoft.indicator;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.intrusoft.library;
+package com.intrusoft.indicator;
 
 import android.content.Context;
 import android.content.res.TypedArray;

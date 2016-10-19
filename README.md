@@ -18,13 +18,13 @@ allprojects {
 Step 2. Add the dependency
 ```groovy
 dependencies {
-      compile 'com.github.IntruderShanky:Flare:1.0.1'
+      compile 'com.github.IntruderShanky:Flare:1.0.2'
 }
  ```
 # Implementation
 ###XML Implementation:
 ```xml
-  <com.intrusoft.library.Flare
+  <com.intrusoft.indicator.Flare
         android:id="@+id/indicator"
         android:layout_width="match_parent"
         android:layout_height="30dp"
